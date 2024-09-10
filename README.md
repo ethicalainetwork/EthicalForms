@@ -1,4 +1,4 @@
-Render docx, xlsx, pptx & pdf in nextjs and reactjs. This is simple demonstration for render docx, xlsx, pptx & pdf in nextjs and reactjs.
+Host a forn nextjs and reactjs.
 
 ## Getting Started
 
