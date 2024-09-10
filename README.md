@@ -1,4 +1,4 @@
-Host a forn nextjs and reactjs.
+Host a form nextjs and reactjs.
 
 ## Getting Started
 
